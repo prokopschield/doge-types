@@ -10,5 +10,15 @@
 		"doge-utils": "^0.0.9"
 	},
 	"keywords": [],
-	"dependencies": {}
+	"directories": {
+		"lib": "lib"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/prokopschield/doge-types.git"
+	},
+	"bugs": {
+		"url": "https://github.com/prokopschield/doge-types/issues"
+	},
+	"homepage": "https://github.com/prokopschield/doge-types#readme"
 }
